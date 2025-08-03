@@ -10,21 +10,21 @@ A simple and elegant web app that displays random Stoic quotes. Built using HTML
 
 ## 📑 Table of Contents
 
-- [Overview](#overview)
+- [Overview](#-overview)
 
-- [Features](#features)
+- [Features](#-features)
 
-- [Project Structure](#project-structure)
+- [Project Structure](#-project-structure)
 
-- [Getting Started](#getting-started)
+- [Getting Started](#-getting-started)
 
-- [Roadmap](#roadmap)
+- [Roadmap](#-roadmap)
 
-- [Contributing](#contributing)
+- [Contributing](#-contributing)
 
-- [License](#license)
+- [License](#-license)
 
-- [Acknowledgements](#Acknowledgements)
+- [Acknowledgments](#-Acknowledgments)
 
 ---
 

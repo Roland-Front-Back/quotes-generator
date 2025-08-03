@@ -161,3 +161,11 @@ This project is licensed under the <a href="https://chatgpt.com/c/LICENSE">MIT L
 - <a href="https://animate.style/">Animate.css</a>
 
 - Inspirational quote APIs and GitHub open-source community
+
+---
+
+<div align="right">
+
+<a href="#top">Back to Top</a>
+
+</div>

@@ -154,7 +154,7 @@ Steps to Contribute
 
 ## 📜 License
 
-This project is licensed under the <a href="https://chatgpt.com/c/LICENSE">MIT License</a>.
+This project is licensed under the <a href="https://choosealicense.com/licenses/mit/">MIT License</a>.
 
 ---
 

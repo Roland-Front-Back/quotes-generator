@@ -12,6 +12,8 @@ A simple and elegant web app that displays random Stoic quotes. Built using HTML
 
 - [Overview](#-overview)
 
+- [Live Demo](#-live-demo)
+
 - [Features](#-features)
 
 - [Project Structure](#-project-structure)
@@ -33,6 +35,12 @@ A simple and elegant web app that displays random Stoic quotes. Built using HTML
 This web application displays a new Stoic quote every time the user clicks the "Generate" button. Users can copy quotes to their clipboard or share them on Twitter with a single click.
 
 ---
+
+## 🚀 Live Demo
+
+Check out the live version of the Stoic Quote Generator:
+
+👉 <a href="https://roland-front-back.github.io/quotes-generator/">Live Demo on GitHub Pages</a>
 
 ## ✨ Features
 
